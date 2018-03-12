@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1482340488 source:e:\rahat\academic\1=fall-16\graphics\circle\8puzzle_rahat\main.cpp
+	<stdio.h>
+	<iostream>
+	<queue>
+	<vector>
+	<algorithm>
+	<stack>
+
